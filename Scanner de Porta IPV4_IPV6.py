@@ -1,3 +1,7 @@
+#Made by: Vinícius Azevedo
+#Instagram: instagram.com/v.mazevedo
+#Twitter: twitter.com/vmeazevedo
+
 import socket
 import time
 
